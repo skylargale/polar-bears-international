@@ -1,0 +1,20 @@
+| Region   | Metric        | Dataset      | Mean ± Std Dev (days)   | Mean Date   |
+|:---------|:--------------|:-------------|:------------------------|:------------|
+| South    | Breakup Day   | AMSR2 12.5km | 184.6 ± 10.2            | Jul 02      |
+| South    | Breakup Day   | AMSR2 25km   | 184.4 ± 9.9             | Jul 02      |
+| South    | Breakup Day   | SSM/I, SSMIS | 183.7 ± 10.5            | Jul 01      |
+| South    | Freezeup Day  | AMSR2 12.5km | 343.9 ± 7.4             | Dec 08      |
+| South    | Freezeup Day  | AMSR2 25km   | 344.4 ± 7.5             | Dec 09      |
+| South    | Freezeup Day  | SSM/I, SSMIS | 344.0 ± 7.4             | Dec 09      |
+| South    | Ice-Free Days | AMSR2 12.5km | 159.3 ± 15.1            | Jun 07      |
+| South    | Ice-Free Days | AMSR2 25km   | 159.8 ± 14.8            | Jun 07      |
+| South    | Ice-Free Days | SSM/I, SSMIS | 159.9 ± 15.5            | Jun 07      |
+| West     | Breakup Day   | AMSR2 12.5km | 180.2 ± 10.4            | Jun 28      |
+| West     | Breakup Day   | AMSR2 25km   | 179.3 ± 10.2            | Jun 27      |
+| West     | Breakup Day   | SSM/I, SSMIS | 178.9 ± 11.3            | Jun 26      |
+| West     | Freezeup Day  | AMSR2 12.5km | 332.2 ± 6.9             | Nov 27      |
+| West     | Freezeup Day  | AMSR2 25km   | 332.2 ± 6.9             | Nov 27      |
+| West     | Freezeup Day  | SSM/I, SSMIS | 333.2 ± 6.9             | Nov 28      |
+| West     | Ice-Free Days | AMSR2 12.5km | 152.1 ± 11.9            | May 31      |
+| West     | Ice-Free Days | AMSR2 25km   | 152.3 ± 11.8            | May 31      |
+| West     | Ice-Free Days | SSM/I, SSMIS | 153.6 ± 13.4            | Jun 01      |
